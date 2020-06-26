@@ -22,14 +22,3 @@ function destructivelyDeleteFromDriverByKey(driver, key) {
   return driver
 }
 
-function drivers() {
-  var driver = {
-    
-  }
-}
-
-var drivers = {
-  driver: {
-  
-  }
-}
