@@ -1,6 +1,4 @@
 // Write your solution in this file!
-// <<<<<<< HEAD
-
 
 var driver = {}
 
