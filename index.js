@@ -22,7 +22,6 @@ function destructivelyDeleteFromDriverByKey(driver, key) {
   return driver
 }
 
-=======
 function drivers() {
   var driver = {
     
@@ -34,4 +33,3 @@ var drivers = {
   
   }
 }
->>>>>>> 3a68fbab3611ea749bef2594598a6895ef541199
